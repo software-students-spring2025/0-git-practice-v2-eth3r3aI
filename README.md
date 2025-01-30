@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer
+I like this article because it described the life of a software engineer.
